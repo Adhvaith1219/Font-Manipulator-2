@@ -1,0 +1,36 @@
+.heading{
+    font-size: 29px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+    color: darkblue;
+}
+
+.note{
+    font-size: 15px;
+    color: magenta;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid magenta;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    background-color: cyan;
+}
+
+video{
+    border: 3px solid cyan;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px magenta;
+}
+
